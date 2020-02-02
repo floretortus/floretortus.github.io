@@ -1,0 +1,19 @@
+{% assign courses = site.data.data.sidebar.courses %}
+{% if courses %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    Courses
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for course in courses %}
+    <li>
+      {{ course.idiom }}</br>
+      <span class="lang-desc">{{ course.description }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
