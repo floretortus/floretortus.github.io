@@ -52,7 +52,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Having experience in Business Operations and Customer Support, I am focused on providing effective communication within a company and making sure the processes I am involved with do bring business value and satisfy quality requirements. I am passionate about creating a trustful working environment and motivating my teammembers, clarifying the objectives and reaching the goals in a timely manner.
+      Having experience in Business Operations and Customer Support, I am focused on providing effective communication within a company and making sure the processes I am involved with do bring business value and satisfy quality requirements. I am passionate about creating a trustful working environment and motivating my team members, clarifying the objectives and reaching the goals in a timely manner.
 education:
     - degree: MSc in Linguistics
       university: NTUU "Kyiv Polytechnic Institute"
@@ -75,17 +75,20 @@ experiences:
       company: Nextiva (VoIP company)
       details: |
           - Worked on optimizing the internal processes and offered ideas to improve the requirements
-          - Wrote QA feedback for Sales/Account Management departments (chats, calls, CRM logs,)
-          - Negotiated the requirements with Sales/AM Management to overcome any communication gaps
+          - Wrote QA feedback for Sales/Account Management departments (chats, calls, CRM logs)
+          - Was responsible for negotiating the requirements with Sales/AM Management to overcome any communication gaps
+          - Took part in comparative business analysis
           - Lead retrospective meetings after QA rounds
-          - Initiated remote side-by-side training sessions with the agents
-          - Planned QA processes and met deadlines
+          - Implemented remote side-by-side training sessions with the agents
+          - Planned QA processes and met deadlines for QA rounds
+          - Updated internal documentation
+          - Reported about the progress and provided summary feedback
     - role: Customer relations representative
       time: May 2016 - April 2017
       company: Runway (outsourcing call center)
       details: |
           - Handling customers` escalations via phone/email (using Oracle Right Now CRM)
-          - Wrote official ressponses regarding refund inquiries and escalations on behalf of the company
+          - Wrote official responses regarding refund inquiries and escalations on behalf of the company
           - Teaching and assisting new-hires with difficult cases while side-by-side training​; evaluating their performance
     - role: Runway (outsourcing call center)
       time: May 2015 - April 2016
@@ -155,16 +158,16 @@ skills:
         level: 80%
 
       - name: Scrum & Project Management
-        level: 70%
-
-      - name: SDLC, Software Testing theory
         level: 60%
 
+      - name: SDLC, Software Testing theory
+        level: 55%
+
       - name: HTML5 & CSS3
-        level: 30%
+        level: 25%
 
       - name: Jekyll
-        level: 20%
+        level: 15%
 
       - name: Git & Github
         level: 20%
